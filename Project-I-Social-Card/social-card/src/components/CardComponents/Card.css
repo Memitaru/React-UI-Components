@@ -4,8 +4,9 @@
     margin: 5px 10px;
     border: 1px solid lightgray;
     border-radius: 10px;
-    height: 300px;
     width: 500px;
+    margin: 0 0 5px 60px;
+    color: black;
 }
 
 .banner {
@@ -14,4 +15,26 @@
     height: 250px;
     border-radius: 5px 5px 0 0;
     background-position: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.card-content {
+    padding-left: 15px;
+}
+
+.link {
+    color: gray;
+    padding-bottom: 10px;
+}
+
+.card-content p {
+    margin-bottom: 5px;
 }
