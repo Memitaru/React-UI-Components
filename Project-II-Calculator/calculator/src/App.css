@@ -1,5 +1,4 @@
-.row {
-    height: 50px;
-    display: flex;
-    align-items: flex-start;
+.container {
+    width: 400px;
+    border: 1px solid gray;
 }
